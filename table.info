@@ -6,11 +6,11 @@
   "Source" : "https://polyhaven.com/a/stone_wall_04",
   "Completed" : true
 },
-"OtherAsset" : {
-  "Extension" : ".fbx",
-  "Size" : "320 MB",
-  "Type" : "Primary",
-  "Source" : "https://example.com",
+"Stone Tiles" : {
+  "Extension" : "ZIP",
+  "Size" : "85.43 MB",
+  "Type" : "Secondary",
+  "Source" : "https://polyhaven.com/a/stone_tiles_02",
   "Completed" : true
 }
 }
