@@ -3,7 +3,7 @@
   "Extension" : ".fbx",
   "Size" : "1 MB",
   "Type" : "Primary",
-  "Source" : "",
+  "Source" : None,
   "Completed" : true
 },
 "OtherAsset" : {
