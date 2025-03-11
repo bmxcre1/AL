@@ -1,14 +1,14 @@
 {
 "AssetName" : {
   "Extension" : ".fbx",
-  "Size" : "100 MB",
+  "Size" : "540 MB",
   "Type" : "Primary",
   "Source" : "",
   "Completed" : true
 },
 "OtherAsset" : {
   "Extension" : ".fbx",
-  "Size" : "1 MB",
+  "Size" : "320 MB",
   "Type" : "Primary",
   "Source" : "https://example.com",
   "Completed" : true
