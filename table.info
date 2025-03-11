@@ -1,9 +1,9 @@
 {
-"AssetName" : {
-  "Extension" : ".fbx",
-  "Size" : "540 MB",
-  "Type" : "Primary",
-  "Source" : "",
+"Rock Texture" : {
+  "Extension" : "ZIP",
+  "Size" : "83.53 MB",
+  "Type" : "Secondary",
+  "Source" : "https://polyhaven.com/a/stone_wall_04",
   "Completed" : true
 },
 "OtherAsset" : {
