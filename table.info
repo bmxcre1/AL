@@ -12,5 +12,21 @@
   "Type" : "Secondary",
   "Source" : "https://polyhaven.com/a/stone_tiles_02",
   "Completed" : true
+},
+
+"Bed Model" : {
+  "Extension" : "FBX",
+  "Size" : "0.00 MB",
+  "Type" : "Primary",
+  "Source" : "",
+  "Completed" : false
+},
+"Bucket Model" : {
+  "Extension" : "FBX",
+  "Size" : "0.00 MB",
+  "Type" : "Primary",
+  "Source" : "",
+  "Completed" : false
 }
 }
+
