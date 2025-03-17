@@ -23,10 +23,17 @@
 },
 "Bucket Model" : {
   "Extension" : "FBX",
-  "Size" : "0.00 MB",
+  "Size" : "101.00 KB",
   "Type" : "Primary",
   "Source" : "",
-  "Completed" : false
+  "Completed" : true
+},
+"Bucket Textures" : {
+  "Extension" : "FBX",
+  "Size" : "1004.00 KB",
+  "Type" : "Primary",
+  "Source" : "",
+  "Completed" : true
 }
 }
 
